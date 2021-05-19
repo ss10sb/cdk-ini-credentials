@@ -3897,8 +3897,8 @@
         "affectsGlobalScope": false
       },
       "../../src/index.ts": {
-        "version": "7d871674e84042b8c9df8da75be0d89630b840180e38055c3e34a5fb9324a65a",
-        "signature": "c239d8eb71ad4561d930d35cef1fa0177f4ca7f714dfc18e5308783756289043",
+        "version": "af9a04f1b830f7a65ccb03539688df6292253c8f3b70831b218cf53289256bf5",
+        "signature": "41ea4f7adc66bc8e741f60a7bcbd7bf48f449f78776d8b1074ee23ae18eb38fd",
         "affectsGlobalScope": false
       },
       "../../node_modules/@babel/types/lib/index.d.ts": {
@@ -9192,8 +9192,7 @@
       ],
       "../../src/index.ts": [
         "../../node_modules/tslib/tslib.d.ts",
-        "../../src/ini-credentials-plugin.ts",
-        "../../src/ini-credentials.ts"
+        "../../src/ini-credentials-plugin.ts"
       ],
       "../../src/ini-credentials-plugin.ts": [
         "../../node_modules/aws-cdk/lib/index.d.ts",
@@ -14363,8 +14362,7 @@
         "../../node_modules/pretty-format/build/types.d.ts"
       ],
       "../../src/index.ts": [
-        "../../src/ini-credentials-plugin.ts",
-        "../../src/ini-credentials.ts"
+        "../../src/ini-credentials-plugin.ts"
       ],
       "../../src/ini-credentials-plugin.ts": [
         "../../node_modules/aws-cdk/lib/index.d.ts"
