@@ -1,3 +1,3 @@
-import {InitCredentialsPlugin} from "./ini-credentials-plugin";
+import {IniCredentialsPlugin} from "./ini-credentials-plugin";
 
-export = new InitCredentialsPlugin();
+export = new IniCredentialsPlugin();

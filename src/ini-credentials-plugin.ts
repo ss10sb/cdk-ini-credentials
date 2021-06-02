@@ -1,7 +1,7 @@
 import {IniCredentials} from "./ini-credentials";
 import {Plugin, PluginHost} from "aws-cdk";
 
-export class InitCredentialsPlugin implements Plugin {
+export class IniCredentialsPlugin implements Plugin {
     public readonly version = "1";
 
     public init(host: PluginHost): void {
